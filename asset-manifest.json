@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Dilatant/static/css/main.165197e3.css",
+    "main.js": "/Dilatant/static/js/main.1abab321.js",
+    "static/media/before.mp4": "/Dilatant/static/media/before.33ef145990b59c2fdffe.mp4",
+    "static/media/after.mp4": "/Dilatant/static/media/after.6e9914c125d995f82c0d.mp4",
+    "static/media/print1.png": "/Dilatant/static/media/print1.a3b946d076e67a011a0d.png",
+    "static/media/FEA_Analysis.pdf": "/Dilatant/static/media/FEA_Analysis.b0ed42423dd6e0ef7084.pdf",
+    "static/media/print2.png": "/Dilatant/static/media/print2.e65411bd3b3e4d2ab8a8.png",
+    "static/media/RATs.png": "/Dilatant/static/media/RATs.c7bcf4166ea84d83bfb9.png",
+    "static/media/dds-helmet.png": "/Dilatant/static/media/dds-helmet.4e4e61c294e99d169898.png",
+    "static/media/ph-imp.png": "/Dilatant/static/media/ph-imp.34042e574ae44a1833a6.png",
+    "static/media/example.png": "/Dilatant/static/media/example.20f0a5f792dc57bfde0a.png",
+    "static/media/prev_des.png": "/Dilatant/static/media/prev_des.02596e67f8951e8f02d2.png",
+    "static/media/final_sel.png": "/Dilatant/static/media/final_sel.31e7785ac670f83a92d2.png",
+    "static/media/dilatant-logo.png": "/Dilatant/static/media/dilatant-logo.c8399f7dab95ee4bb59d.png",
+    "static/media/ku.png": "/Dilatant/static/media/ku.d0a9172d711167a47f91.png",
+    "static/media/FEA_Data.pdf": "/Dilatant/static/media/FEA_Data.e6393f5db632eda37bff.pdf",
+    "static/media/imp4.png": "/Dilatant/static/media/imp4.c83a0aa9755404e81b15.png",
+    "static/media/imp1.png": "/Dilatant/static/media/imp1.6919f0a16d8cf6c90c8e.png",
+    "static/media/imp2.png": "/Dilatant/static/media/imp2.875ea8e7d98d2eb766c5.png",
+    "static/media/imp3.png": "/Dilatant/static/media/imp3.82013be16b8a1c63b7d8.png",
+    "index.html": "/Dilatant/index.html",
+    "main.165197e3.css.map": "/Dilatant/static/css/main.165197e3.css.map",
+    "main.1abab321.js.map": "/Dilatant/static/js/main.1abab321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165197e3.css",
+    "static/js/main.1abab321.js"
+  ]
+}
