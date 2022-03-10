@@ -1,0 +1,44 @@
+#report-title{
+    font-size: xx-large;
+    position: relative;
+    left: 41%;
+    top: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#task{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    width: 70rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.design{
+    height: 230px;
+    width: auto;
+    display:block;
+    position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+}
+
+.print{
+    height: 210px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+#report-images{
+    display: flex;
+}
+
+.report-column{
+    flex: 50%;
+    
+}

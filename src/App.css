@@ -1,38 +1,92 @@
-.App {
-  text-align: center;
+html,body {
+  margin:0;
+  padding:0;
+  overflow-x:hidden;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.navbar .nav-content {
+  max-width: 900px;
+  padding: 0rem 3rem;
+  margin: 0 auto;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+ 
 }
 
-.App-link {
-  color: #61dafb;
+.nav-item {
+  display: inline;
+  margin-left: 2rem;
+  color: black;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.nav-items{
+  position: fixed;
+  top: 0;
+  right:50px;
+}
+.nav-item:hover {
+  color: black;
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-item > .active {
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+.nav-logo {
+  height: 60px;
+  width: 60px;
+  position: fixed;
+  top: 10px;
+  left: 20px;
+
+}
+
+.nav-logo:hover {
+  cursor: pointer;
+}
+
+.main-section {
+  height: 100vh;
+  background: linear-gradient(
+    to right,
+    rgb(19, 18, 18) 0%,
+    rgb(34, 34, 34) 50.2%,
+    #36E3C1 52%,
+    #36E3C1 100%
+  ) 
+}
+
+.about-section {
+  height: 100vh;
+  background: #e79769;
+  display: flex;
+}
+
+.overview-section {
+  height: 100vh;
+  background: linear-gradient(
+    to right,
+    skyblue 0%,
+    skyblue 50.2%,
+    white 52%,
+    white 100%
+  );
+  display: flex;
+}
+.report-section {
+  height: 100vh;
+  background: rgb(140, 165, 175);
+ 
+}
+
+.info-section {
+  height: 100vh;
+  background: rgb(21, 145, 194)
 }

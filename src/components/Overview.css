@@ -1,0 +1,51 @@
+.videos {
+  width: 280px;
+  height: auto;
+  display: block;
+  margin: 100px 0px 0px -10%;
+}
+.video-summary {
+  width: 300px;
+  position: relative;
+  left: 37%;
+  top: -400px;
+  font-size:larger;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.ph-imp {
+  width: 550px;
+  height: auto;
+}
+
+.imp {
+  width: 130px;
+  height: auto;
+}
+
+.container{
+  flex:50%;
+  padding: 10px;
+  height: 100vh;
+}
+
+#imp-container{
+  margin: 100px 0 0 8%;
+}
+
+#ph-container{
+  margin: 70px 0 0 8%;
+}
+
+#ph-title{
+  margin: 90px 0 0 40%;
+  font-size: x-large;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+}
+
+span{
+  font-size: xx-large;
+  position: relative;
+  left: 46%;
+  top: 20px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}

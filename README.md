@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Dilatant Decelerate System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made by a small team of six from the University of Kansas.
+Supervisor: Professor Thomas DeAgostino, GTA: Craig and Saud
+Client: Christopher Perra, President/Founder of Diltant LLC
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+A team of six from the University of Kansas was responsible for redesigning a safety component in US Air Force helmets. Using SolidWorks and MSC Patran/Nastran, research was done to redesign the retrofit plate on the back of the helmet that doesn't restrict the pilot's lateral head movement.
 
-### `npm start`
+### About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Dilatant LLC, a privately held company located out of Kansas City, Missouri, aimed to provide a new level of pilot head safety and protection by incorporating Dilatant's rate attenuating Decelerate Straps into aviation helmets to help reduce violent head and body motion which may occur during acceleration, impact, or ejection, reducing potential trauma to the head.
+With a team of six, we were given an opportunity to help research and redesign the plate on the back of US Air Force helmets to reduce whiplash and augment safety and function.
+### Team
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Rashed Alhosani, James Bevitt, Samuel Hong, Michael Jeffries, Brock Stegeman, Jianan Zheng
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Website
+Site made with JavaScript
